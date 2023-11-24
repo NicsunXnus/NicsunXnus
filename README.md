@@ -5,3 +5,5 @@
 [![NicsunXnus's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicsunxnus&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/NicsunXnus/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicsunxnus)](https://github.com/NicsunXnus/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicsunxnus&layout=compact)
